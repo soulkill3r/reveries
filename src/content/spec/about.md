@@ -1,9 +1,4 @@
 # About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
+Ingénieur Systèmes spécialisé Microsoft 365 & Messagerie d'entreprise. Je bidouille mon homelab et développe des outils dans mon temps libre. Je partage mes connaissances sur l'infrastructure cloud, l'automatisation et mes expérimentations tech.
 
-::github{repo="saicaca/fuwari"}
-
-> ### Sources of images used in this site
-> - [Unsplash](https://unsplash.com/)
-> - [星と少女](https://www.pixiv.net/artworks/108916539) by [Stella](https://www.pixiv.net/users/93273965)
-> - [Rabbit - v1.4 Showcase](https://civitai.com/posts/586908) by [Rabbit_YourMajesty](https://civitai.com/user/Rabbit_YourMajesty)
+::github{repo="soulkill3r/reveries"}
